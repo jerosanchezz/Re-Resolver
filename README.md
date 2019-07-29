@@ -1,4 +1,4 @@
-# Re-Resolver -V1.0
+# Re-Resolver
 
 Re-Resolver is a true to form update of the classic 2010 Resolver app that works on modern versions of iOS.
 
@@ -16,7 +16,7 @@ Re-Resolver will probably not change your life, but it might make it a little bi
 
 # Contact Us
 
-If you have any questions or suggestions about Re-Resolver, do not hesitate to contact us.
+If you have any questions or suggestions about our app, do not hesitate to contact us.
 
 Email: faoding@gmail.com
 
